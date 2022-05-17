@@ -1,5 +1,3 @@
-<img src='source/banner.png' alt="banner"></img>
-
 👋 Hi, I’m Lika
 
 <a href="https://www.linkedin.com/in/lika-shamugiya-67bb06239/" target="_blank">
@@ -59,17 +57,23 @@
 
 </a>
 
-<a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
-
-</a>
-
 <a href="https://jupyter.org/" target="_blank">
 
 <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
 
 </a>
+
+<a href="https://figma.com/" target="_blank">
+
+<img alt="Jupyter" src="https://img.shields.io/badge/Figma-F68370?&style=for-the-badge&logo=figma&logoColor=white">
+
+</a>
+
+<a href="https://www.mysql.com/">
+
+<img alt="MySQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+
+</a>
   
 <h2> My Github <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<div align="center">
-    <img src="https://metrics.lecoq.io/likmugi?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&base.indepth=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Europe%2FMoscow">
-</div>
+<img src="https://metrics.lecoq.io/likmugi?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&base.indepth=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Europe%2FMoscow"> </img>
