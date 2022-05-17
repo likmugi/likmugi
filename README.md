@@ -1,3 +1,5 @@
+![Banner](https://sun9-79.userapi.com/s/v1/if2/xVIts6SmN1nlKyRzhrNQZuPpZRF1AWw_BqU4fr3VuMrhWYiYohQXkqSiShJg1-Eja9dpUhhjAPqqFJ1nCyNYhLUd.jpg?size=984x305&quality=96&type=album)
+
 👋 Hi, I’m Lika
 
 <a href="https://www.linkedin.com/in/lika-shamugiya-67bb06239/" target="_blank">
@@ -76,4 +78,5 @@
 </a>
   
 <h2> My Github <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+
 <img src="https://metrics.lecoq.io/likmugi?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&base.indepth=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Europe%2FMoscow"> </img>
