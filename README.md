@@ -1,7 +1,7 @@
 ![Banner](https://sun9-79.userapi.com/s/v1/if2/xVIts6SmN1nlKyRzhrNQZuPpZRF1AWw_BqU4fr3VuMrhWYiYohQXkqSiShJg1-Eja9dpUhhjAPqqFJ1nCyNYhLUd.jpg?size=984x305&quality=96&type=album)
 
-👋 Hi, I’m Lika
-
+<h1 align="center"> 👋 Hi, I’m Lika </h1>
+<p align="center">
   <a href="https://www.linkedin.com/in/lika-shamugiya-67bb06239/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
@@ -21,6 +21,7 @@
   <a href="https://www.hackerrank.com/shelley_bass_li/hackos" target="_blank">
     <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
   </a>
+</p>
 
 <h2> About me <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
