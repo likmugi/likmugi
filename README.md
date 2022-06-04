@@ -1,4 +1,4 @@
-![Banner](https://sun9-79.userapi.com/s/v1/if2/xVIts6SmN1nlKyRzhrNQZuPpZRF1AWw_BqU4fr3VuMrhWYiYohQXkqSiShJg1-Eja9dpUhhjAPqqFJ1nCyNYhLUd.jpg?size=984x305&quality=96&type=album)
+[](https://sun9-79.userapi.com/s/v1/if2/xVIts6SmN1nlKyRzhrNQZuPpZRF1AWw_BqU4fr3VuMrhWYiYohQXkqSiShJg1-Eja9dpUhhjAPqqFJ1nCyNYhLUd.jpg?size=984x305&quality=96&type=album)
 
 <h1 align="center"> 👋 Hi, I’m Lika </h1>
 <p align="center">
