@@ -21,7 +21,13 @@
   <a href="https://www.hackerrank.com/shelley_bass_li/hackos" target="_blank">
     <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
   </a>
+
+  <a href="https://leetcode.com/shamugiyalg/" target="_blank">
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-EE7A3B?style=for-the-badge&logo=leetcode&logoColor=white">
+  </a>
 </p>
+
+
 
 <h2> About me <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32 px> </h2>
 
@@ -60,6 +66,10 @@
   <a href="https://www.mysql.com/">
     <img alt="MySQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
   </a>
+  
+  #### Electronic certificates 📜
+  
+  - [Certificate "Fundamentals of Java programming"](https://sun9-81.userapi.com/impf/Qo92SZhzQYQc3VYJNclhWqg8lCegeAoakA4rCQ/ml6gtqRxC8E.jpg?size=2000x1408&quality=96&sign=60eba0f5aec8ac2b11ab019f21bea451&type=album)
   
 <h2> My Github <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32 px> </h2>
 
