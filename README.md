@@ -33,7 +33,7 @@
 
 🎓  I have an undergraduate in Applied Mathematics and Computer Science from Russian State Social University. Now I'm a master's student in Computer Science and Information Technology.
 
-🌱  I'm currently learning Java and more about Android development.
+🌱  I'm currently learning Java and more about backend development.
 
 ✍️  I have already studied programming languages such as C#, Python, and am also a little familiar with frontend development (HTML + CSS, I work in Figma).
 
